@@ -4,11 +4,9 @@
 
 class gallery2 {
 
-    public function FunctionName(Type $var = null)
+    public function FunctionName()
     {
         # code...
-
-        
     }
 
 }
