@@ -1,6 +1,6 @@
 <?php
 
-class permission {
+class permissionModule {
     public function add(){
         return 'add permission funcitonality';
     }
