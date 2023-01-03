@@ -10,9 +10,9 @@ class alluser {
     {
         # code...
 
-        return "Welcome my functionName code funcitonality";
+        return "Welcome my functionName code strcture";
 
-        
+
     }
 
     
